@@ -19,7 +19,7 @@ This project implements the SHA-256 hashing algorithm step by step using Python 
 | Problem 3: Generating SHA-256 Constants | Complete | [#3](https://github.com/FawasAjani/computational-theory/issues/3) |
 | Problem 4: Padding and Parsing Messages | Complete | [#4](https://github.com/FawasAjani/computational-theory/issues/4) |
 | Problem 5: Compression Function | Complete | [#5](https://github.com/FawasAjani/computational-theory/issues/5) |
-| Problem 6: Full SHA-256 Implementation | Complete | [#6](https://github.com/FawasAjani/computational-theory/issues/6) |
+| Problem 6: Full SHA-256 Implementation | in progress | [#6](https://github.com/FawasAjani/computational-theory/issues/6) |
 
 The code and explanations for each problem are in [`problems.ipynb`](problems.ipynb).
 
