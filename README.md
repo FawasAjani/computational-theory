@@ -89,7 +89,7 @@ Listed in `requirements.txt`:
 
 ## Use of AI
 
-I wrote the original code, comments and explanations myself. I used Claude (Anthropic) to draft docstrings, test cases, some explanations and formulas. I applied and checked everything myself against Python's `hashlib`.
+I wrote the original code, comments and explanations myself. I used Claude (Anthropic) to draft docstrings, test cases, and formulas. I applied and checked everything myself against Python's `hashlib`.
 
 ## References
 
