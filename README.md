@@ -47,7 +47,7 @@ computational-theory/
 └── AGENTS.md
 ```
 
-The project needs no data files or images, so there are no `data/` or `img/` folders.
+
 
 ## How to Run
 
